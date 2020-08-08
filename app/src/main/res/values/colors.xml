@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5553F</color>
+    <color name="colorPrimaryDark">#F5553F</color>
+    <color name="transparent">#00000000</color>
+    <color name="whitetransparent">#40ffffff</color>
+    <color name="colorAccent">#00bdca</color>
+    <color name="background">#F9F9FB</color>
+    <color name="materialblue">#007FFF</color>
+    <!--<color name="theme_color">#8EB64F</color>-->
+    <color name="theme_color">#89c63d</color>
+    <color name="light_black">#A6000000</color>
+    <color name="black">#848484</color>
+    <color name="getblack">#000000</color>
+    <color name="white_color">#ffffff</color>
+    <color name="black_color">#003322</color>
+    <color name="black_tranparent">#A68EB64F</color>
+    <color name="dummy_camera_bg">#151515</color>
+    <color name="dark_grey">#4a4a4a</color>
+    <color name="grey">#6b6b6b</color>
+    <color name="green">#89c63d</color>
+    <color name="transparent_black">#50000000</color>
+    <color name="transparent_black2">#80000000</color>
+    <color name="app_blue">#043661</color>
+    <color name="red">#FF0000</color>
+    <color name="text_color">@color/colorPrimary</color>
+    <color name="redlabel">#DD4C3E</color>
+    <color name="bluelabel">#38579C</color>
+    <color name="lgray">#B3C5D8</color>
+    <color name="txtcolor">#6b6b6b</color>
+    <color name="appgray">#ebebeb</color>
+    <color name="gray2">#616161</color>
+    <color name="colorBackground">#7E57C2</color>
+
+
+</resources>
